@@ -1,0 +1,22 @@
+[
+    {
+        "name" : "Excercise1",
+        "no_of_rep": "10",
+        "no_of_sets": "3"
+    },
+    {
+        "name" : "Excercise 2",
+        "no_of_rep": "10",
+        "no_of_sets": "3"
+    },
+    {
+        "name" : "Excercise 3",
+        "no_of_rep": "10",
+        "no_of_sets": "3"
+    },
+    {
+        "name" : "Excercise 4",
+        "no_of_rep": "10",
+        "no_of_sets": "3"
+    }
+]

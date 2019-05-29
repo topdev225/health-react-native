@@ -1,0 +1,50 @@
+{
+  "name": "Piton",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start",
+    "test": "jest"
+  },
+  "dependencies": {
+    "@types/node": "^11.13.8",
+    "events": "^3.0.0",
+    "native-base": "^2.12.1",
+    "react": "16.6.3",
+    "react-native": "0.57.8",
+    "react-native-chart-kit": "^2.6.0",
+    "react-native-circular-timer": "0.0.1",
+    "react-native-countdown-component": "^2.4.0",
+    "react-native-dialog-input": "^1.0.7",
+    "react-native-gesture-handler": "^1.1.0",
+    "react-native-keyboard-spacer": "^0.4.1",
+    "react-native-phone-input": "^0.2.1",
+    "react-native-popup-dialog": "^0.18.2",
+    "react-native-popup-menu": "^0.15.6",
+    "react-native-progress": "^3.6.0",
+    "react-native-progress-bar-animated": "^1.0.6",
+    "react-native-responsive-linechart": "^1.5.1",
+    "react-native-router-flux": "^4.0.6",
+    "react-native-stopwatch-timer": "0.0.20",
+    "react-native-svg": "^9.4.0",
+    "react-native-svg-charts": "^5.2.0",
+    "react-native-timer-countdown": "^4.1.0",
+    "react-native-tts": "^3.0.0",
+    "react-native-vector-icons": "^6.1.0",
+    "react-native-voice": "^0.2.6",
+    "react-navigation": "^3.9.1",
+    "react-redux": "^6.0.0",
+    "redux": "^4.0.1",
+    "redux-persist": "^5.10.0",
+    "redux-thunk": "^2.3.0"
+  },
+  "devDependencies": {
+    "babel-jest": "23.6.0",
+    "jest": "23.6.0",
+    "metro-react-native-babel-preset": "0.51.1",
+    "react-test-renderer": "16.6.3"
+  },
+  "jest": {
+    "preset": "react-native"
+  }
+}
